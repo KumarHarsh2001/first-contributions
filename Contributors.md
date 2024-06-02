@@ -5,6 +5,7 @@ aiymzhann08
 - COffee is programmers best friend
 - Jen-Aiken Amanbay
   [Luigi Gonnella]
+  - [Kumar Harsh] | <a href="https://www.linkedin.com/in/kumar-harsh-575306171/">linkedin</a> | <a href="https://github.com/KumarHarsh2001"> github </a>
 - [Christophe Adami](https://github.com/adach2)
 - [Tejas] https://github.com/tejdev96
 - [CanGeus] | <a href="https://www.linkedin.com/in/cangeus/">linkedin</a> | (https://github.com/adach2)
